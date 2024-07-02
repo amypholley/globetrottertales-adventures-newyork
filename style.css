@@ -1,0 +1,30 @@
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    padding: 50px;
+    text-align: center;
+    background-color: white;
+    color: white;
+    font-size: medium;
+    font-display: white;
+}
+
+
+
+
+div.footer {
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    gap: 50px;
+    padding: 40px;
+    text-align: left;
+    background-color: rgb(61, 61, 180);
+    color: rgb(255, 238, 0);
+    font-size: medium;
+    font-display: rgb(255, 238, 0);
+    position: fixed;
+    bottom: 0;
+}
